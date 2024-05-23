@@ -1,7 +1,7 @@
 # Keadtisak Aunsupong's Project
 Company:24 Shopping
 
-Welcome to my React project! This project is a simple Register application..
+Welcome to my Register project! This project is a simple Register application..
 
 ## Table of Contents
 
